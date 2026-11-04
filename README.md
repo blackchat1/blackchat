@@ -1,4 +1,5 @@
-# 私密消息 · README
+# BlackChat · README
+#### Android版为'私密消息'
 
 一个基于**公开安全的网络服务**的端到端加密聊天客户端，提供 **Windows 桌面版（exe）** 与 **Android 版**，两端协议一致、房间互通。
 
